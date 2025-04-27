@@ -1,0 +1,22 @@
+{
+  "name": "playtube-uploader",
+  "version": "1.0.0",
+  "description": "one-click upload video to playtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "cheerio": "^1.0.0",
+    "cli-progress": "^3.12.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^23.4.0",
+    "steam-workshop": "^0.0.5",
+    "webtorrent": "^2.5.1",
+    "yargs": "^17.7.2"
+  }
+}
